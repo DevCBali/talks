@@ -13,7 +13,7 @@ Check out the talk dates below, the theme for that date, and the suggested topic
 
 Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/devcbali/talks/issues/new).
 
-_Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @tvalentius @adisetiawan @ykurniawan @rezaprimasatya @wayanjimmy on Developer Circles Bali's Facebook group here :
+_Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @tvalentius @adisetiawan @ykurniawan @rezaprimasatya on Developer Circles Bali's Facebook group here :
 * [**Facebook**](https://www.facebook.com/groups/devcbali/)
 
 Make sure you fill out the following information:
