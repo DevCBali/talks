@@ -1,11 +1,31 @@
-# DevC Bali Talks
-Talk proposals and discussion
+# FB Developer Circles Bali Talks
+If you'd like to give a talk to devs and aspiring devs at Developer Circles Bali , we'd love to hear your proposal!
 
 We're trying something different and using GitHub Issues for talk submissions. This way people can ask questions, give feedback and +1 their favourites. If your talk isn't scheduled for the next meetup, leave the issue open and we may invite you to give it in the future (based on theme or time constraints)
 
 After each meetup, we (or the speaker) will update issues with slides, links, and other useful information.
 
 [**Submit your talk now**](https://github.com/devcbali/talks/issues/new)
+
+# Submit a proposal
+
+Check out the talk dates below, the theme for that date, and the suggested topics.
+
+Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/devcbali/talks/issues/new).
+
+_Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @tvalentius @adisetiawan @ykurniawan @rezaprimasatya @wayanjimmy on Developer Circles Bali's Facebook group here :
+* [**Facebook**](https://www.facebook.com/groups/devcbali/)
+
+Make sure you fill out the following information:
+
+* Talk Date 
+* Talk Title
+* Length
+* Twitter-sized Overview (140 characters)
+* Detailed Overview
+
+[**Submit your talk now**](https://github.com/devcbali/talks/issues/new)
+
 
 # Things to think about
 
